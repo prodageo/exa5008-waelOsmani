@@ -1,4 +1,4 @@
-language: java
+language: html
 sudo: false
 install: true
 
