@@ -1,2 +1,2 @@
 # EXA5008
-Code pour déclencher les règles SonarQube
+ - [énoncé](http://casisbelli-03.insa-rouen.fr/wiki/pmwiki.php?n=CASI.EXA5008)
