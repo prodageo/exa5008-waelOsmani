@@ -5,7 +5,7 @@ language: web
 addons:
   sonarcloud:
     # info obtenue sur https://sonarcloud.io/account/organizations
-    organization: "prodageo"
+    organization: "waelosmani-github"
 
 jdk:
   - oraclejdk8
